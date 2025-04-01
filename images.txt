@@ -5,4 +5,4 @@ milvusdb/milvus:cpu-latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #hanfangyuan/dify-on-wechat:arm64
-localai/localai:latest-cpu
+ghcr.io/open-webui/open-webui:dev
